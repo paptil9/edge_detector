@@ -1,11 +1,8 @@
-// CANDIDATE NAME : Prajwal Patil
-//-------------------------------------------------------------------------
+
 // SPECIFICATION: Create a logical circuit that detects the edge of a
 // signal and reports which edge--a rising edge or falling edge-
 // accounting for starting and reset events.
-//
-// Note: If there is no edge change, no signal flag(s) should be asserted.
-//-------------------------------------------------------------------------
+
 // DUT Description :
 /*
 				Input signal: in 
